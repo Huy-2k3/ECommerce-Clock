@@ -5,16 +5,44 @@
       "PackagePath": "staticwebassets\\G-SHOCK_Store.bundle.scp.css"
     },
     {
+      "Id": "D:\\Học để làm\\Asp.Net MVC5, MVC6\\ECommerce-Clock\\G-SHOCK_Store\\G-SHOCK_Store\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
       "Id": "D:\\Học để làm\\Asp.Net MVC5, MVC6\\ECommerce-Clock\\G-SHOCK_Store\\G-SHOCK_Store\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Học để làm\\Asp.Net MVC5, MVC6\\ECommerce-Clock\\G-SHOCK_Store\\G-SHOCK_Store\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Học để làm\\Asp.Net MVC5, MVC6\\ECommerce-Clock\\G-SHOCK_Store\\G-SHOCK_Store\\wwwroot\\css\\tiny-slider.css",
+      "PackagePath": "staticwebassets\\css\\tiny-slider.css"
     },
     {
       "Id": "D:\\Học để làm\\Asp.Net MVC5, MVC6\\ECommerce-Clock\\G-SHOCK_Store\\G-SHOCK_Store\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\Học để làm\\Asp.Net MVC5, MVC6\\ECommerce-Clock\\G-SHOCK_Store\\G-SHOCK_Store\\wwwroot\\images\\img-grid-1.jpg",
+      "PackagePath": "staticwebassets\\images\\img-grid-1.jpg"
+    },
+    {
+      "Id": "D:\\Học để làm\\Asp.Net MVC5, MVC6\\ECommerce-Clock\\G-SHOCK_Store\\G-SHOCK_Store\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Học để làm\\Asp.Net MVC5, MVC6\\ECommerce-Clock\\G-SHOCK_Store\\G-SHOCK_Store\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
       "Id": "D:\\Học để làm\\Asp.Net MVC5, MVC6\\ECommerce-Clock\\G-SHOCK_Store\\G-SHOCK_Store\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Học để làm\\Asp.Net MVC5, MVC6\\ECommerce-Clock\\G-SHOCK_Store\\G-SHOCK_Store\\wwwroot\\js\\tiny-slider.js",
+      "PackagePath": "staticwebassets\\js\\tiny-slider.js"
     },
     {
       "Id": "D:\\Học để làm\\Asp.Net MVC5, MVC6\\ECommerce-Clock\\G-SHOCK_Store\\G-SHOCK_Store\\wwwroot\\lib\\bootstrap\\LICENSE",

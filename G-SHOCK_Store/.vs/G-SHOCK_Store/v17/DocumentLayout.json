@@ -3,8 +3,15 @@
   "WorkspaceRootPath": "D:\\H\u1ECDc \u0111\u1EC3 l\u00E0m\\Asp.Net MVC5, MVC6\\ECommerce-Clock\\G-SHOCK_Store\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0F30BB4B-7ED1-40A7-8ADD-A1B7C683020F}|G-SHOCK_Store\\G-SHOCK_Store.csproj|d:\\h\u1ECDc \u0111\u1EC3 l\u00E0m\\asp.net mvc5, mvc6\\ecommerce-clock\\g-shock_store\\g-shock_store\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F30BB4B-7ED1-40A7-8ADD-A1B7C683020F}|G-SHOCK_Store\\G-SHOCK_Store.csproj|solutionrelative:g-shock_store\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0F30BB4B-7ED1-40A7-8ADD-A1B7C683020F}|G-SHOCK_Store\\G-SHOCK_Store.csproj|d:\\h\u1ECDc \u0111\u1EC3 l\u00E0m\\asp.net mvc5, mvc6\\ecommerce-clock\\g-shock_store\\g-shock_store\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0F30BB4B-7ED1-40A7-8ADD-A1B7C683020F}|G-SHOCK_Store\\G-SHOCK_Store.csproj|solutionrelative:g-shock_store\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\H\u1ECDc \u0111\u1EC3 l\u00E0m\\Asp.Net MVC5, MVC6\\furni-1.0.0-templec\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +21,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\H\u1ECDc \u0111\u1EC3 l\u00E0m\\Asp.Net MVC5, MVC6\\furni-1.0.0-templec\\index.html",
+              "RelativeDocumentMoniker": "..\\..\\furni-1.0.0-templec\\index.html",
+              "ToolTip": "D:\\H\u1ECDc \u0111\u1EC3 l\u00E0m\\Asp.Net MVC5, MVC6\\furni-1.0.0-templec\\index.html",
+              "RelativeToolTip": "..\\..\\furni-1.0.0-templec\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACICAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-31T06:11:01.815Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\H\u1ECDc \u0111\u1EC3 l\u00E0m\\Asp.Net MVC5, MVC6\\ECommerce-Clock\\G-SHOCK_Store\\G-SHOCK_Store\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "G-SHOCK_Store\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\H\u1ECDc \u0111\u1EC3 l\u00E0m\\Asp.Net MVC5, MVC6\\ECommerce-Clock\\G-SHOCK_Store\\G-SHOCK_Store\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "G-SHOCK_Store\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T06:10:42.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\H\u1ECDc \u0111\u1EC3 l\u00E0m\\Asp.Net MVC5, MVC6\\ECommerce-Clock\\G-SHOCK_Store\\G-SHOCK_Store\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "G-SHOCK_Store\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\H\u1ECDc \u0111\u1EC3 l\u00E0m\\Asp.Net MVC5, MVC6\\ECommerce-Clock\\G-SHOCK_Store\\G-SHOCK_Store\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "G-SHOCK_Store\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAACsBAAAAAAAAAAAiwGsBAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-31T05:41:48.276Z",
               "EditorCaption": ""

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("G-SHOCK_Store")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b1b2d8cdc950998eaa47f52edfb3b8d5ebd70df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dec501f9055edaa39378c838ea4b0aaf23dd2128")]
 [assembly: System.Reflection.AssemblyProductAttribute("G-SHOCK_Store")]
 [assembly: System.Reflection.AssemblyTitleAttribute("G-SHOCK_Store")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

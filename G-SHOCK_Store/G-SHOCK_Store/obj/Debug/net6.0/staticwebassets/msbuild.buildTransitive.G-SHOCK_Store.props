@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\G-SHOCK_Store.props" />
+</Project>

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\H\u1ECDc \u0111\u1EC3 l\u00E0m\\Asp.Net MVC5, MVC6\\ECommerce-Clock\\G-SHOCK_Store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F30BB4B-7ED1-40A7-8ADD-A1B7C683020F}|G-SHOCK_Store\\G-SHOCK_Store.csproj|d:\\h\u1ECDc \u0111\u1EC3 l\u00E0m\\asp.net mvc5, mvc6\\ecommerce-clock\\g-shock_store\\g-shock_store\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F30BB4B-7ED1-40A7-8ADD-A1B7C683020F}|G-SHOCK_Store\\G-SHOCK_Store.csproj|solutionrelative:g-shock_store\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\H\u1ECDc \u0111\u1EC3 l\u00E0m\\Asp.Net MVC5, MVC6\\ECommerce-Clock\\G-SHOCK_Store\\G-SHOCK_Store\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "G-SHOCK_Store\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\H\u1ECDc \u0111\u1EC3 l\u00E0m\\Asp.Net MVC5, MVC6\\ECommerce-Clock\\G-SHOCK_Store\\G-SHOCK_Store\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "G-SHOCK_Store\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T05:41:48.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
